@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
 public class ManagerBiblioteca {
     private List<Documento> documentos;
     private List<Escritor> escritores;

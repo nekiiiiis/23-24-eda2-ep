@@ -20,6 +20,5 @@ public class Documento {
         return "ID: " + id + ", Titulo: " + titulo + ", Año: " + anio;
     }
 
-
 }
 

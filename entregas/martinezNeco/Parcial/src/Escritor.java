@@ -1,5 +1,4 @@
 package src;
-
 public class Escritor {
     private int id;
     private String nombre;
